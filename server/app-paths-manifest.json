@@ -1,0 +1,21 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/opengraph-image.jpg/route": "app/opengraph-image.jpg/route.js",
+  "/twitter-image.jpg/route": "app/twitter-image.jpg/route.js",
+  "/[CountryCode]/(checkout)/checkout/page": "app/[CountryCode]/(checkout)/checkout/page.js",
+  "/[CountryCode]/(main)/search/page": "app/[CountryCode]/(main)/search/page.js",
+  "/[CountryCode]/(main)/cart/page": "app/[CountryCode]/(main)/cart/page.js",
+  "/[CountryCode]/(main)/order/confirmed/[id]/page": "app/[CountryCode]/(main)/order/confirmed/[id]/page.js",
+  "/[CountryCode]/(main)/categories/[...category]/page": "app/[CountryCode]/(main)/categories/[...category]/page.js",
+  "/[CountryCode]/(main)/collections/[handle]/page": "app/[CountryCode]/(main)/collections/[handle]/page.js",
+  "/[CountryCode]/(main)/page": "app/[CountryCode]/(main)/page.js",
+  "/[CountryCode]/(main)/results/[query]/page": "app/[CountryCode]/(main)/results/[query]/page.js",
+  "/[CountryCode]/(main)/store/page": "app/[CountryCode]/(main)/store/page.js",
+  "/[CountryCode]/(main)/products/[handle]/page": "app/[CountryCode]/(main)/products/[handle]/page.js",
+  "/[CountryCode]/(main)/account/@dashboard/orders/details/[id]/page": "app/[CountryCode]/(main)/account/@dashboard/orders/details/[id]/page.js",
+  "/[CountryCode]/(main)/account/@dashboard/addresses/page": "app/[CountryCode]/(main)/account/@dashboard/addresses/page.js",
+  "/[CountryCode]/(main)/account/@dashboard/page": "app/[CountryCode]/(main)/account/@dashboard/page.js",
+  "/[CountryCode]/(main)/account/@dashboard/orders/page": "app/[CountryCode]/(main)/account/@dashboard/orders/page.js",
+  "/[CountryCode]/(main)/account/@login/page": "app/[CountryCode]/(main)/account/@login/page.js",
+  "/[CountryCode]/(main)/account/@dashboard/profile/page": "app/[CountryCode]/(main)/account/@dashboard/profile/page.js"
+}
